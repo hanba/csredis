@@ -1,6 +1,6 @@
 # csredis
 
-ServiceStack.Redis 是商业版，免费版有限制；
+ServiceStack.Redis 是商业版，免费版有限制；1
 
 StackExchange.Redis 是免费版，但是内核在 .NETCore 运行有问题经常 Timeout，暂无法解决；
 
